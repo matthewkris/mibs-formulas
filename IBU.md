@@ -32,7 +32,7 @@ IBU = (Hop weight(oz) * %Utilization * %Alpha * 7462) / (Batch Volume* (1 + GA))
 
 #### Variables
 
-- GA = (BOIL_GRAVITY – 1.050) / 0.2
+- GA = (Boil Gravity – 1.050) / 0.2
 - %Utilization = 18.11 + (13.86 * hyptan[(Minutes – 31.32) / 18.27] )
 
 #### Example
